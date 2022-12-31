@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/home/kalber/Workspaces/Spring/CLISeeburger/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
